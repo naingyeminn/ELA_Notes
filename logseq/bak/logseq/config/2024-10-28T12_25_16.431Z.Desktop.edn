@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["ELA_Notes-README" "ELA24-01" "Notes"]
+ :favorites ["Notes" "ELA_Notes-README" "ELA24-01"]
 
  ;; Set flashcards interval.
  ;; Expected value:
