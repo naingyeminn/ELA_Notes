@@ -37,6 +37,17 @@ This plugin can be installed through the Plugins manager of Logseq.
 
   ![screenshot4](./.readme_data/logseq_guide-04.png)
 
+## Getting the updated Data
+
+- **Pulling updated data from the repo**
+  ```shell
+  cd ELA_Notes
+  git pull
+  ```
+
+  ![screenshot5](./.readme_data/logseq_guide-05.png)
+
+---
 ## Want to know more about Logseq?
 
 - [How to get started in Logseq](https://hub.logseq.com/getting-started/uQdEHALJo7RWnDLLLP7uux/how-to-get-started-in-logseq/pE1BPPvKGbWkSRXsprRnxM)
