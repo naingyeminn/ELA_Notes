@@ -1,10 +1,11 @@
 - [[ELA24-01]]
   template:: ELA
 	- **Topic**
-		- **Homework**
-			-
-		- **Up next**
-			-
+		-
+	- **Homework**
+		-
+	- **Up next**
+		-
 	- **Whiteboard**
 		-
 	- **Recording**
