@@ -1,3 +1,13 @@
 - [[ELA24-01]]
-	- [[ELA24-01/Day1]]
-	- [[ELA24-01/Day2]]
+	- [[ELA24-01/Day1]] Introduction
+	- [[ELA24-01/Day2]] Ansible Installation and Environment Preparation
+	- [[ELA24-01/Day3]] Managing Ansible Inventory
+	- [[ELA24-01/Day4]] Setting up SSH for Managed Hosts
+	- [[ELA24-01/Day5]] Privilege Escalation
+	- [[ELA24-01/Day6]] Finding Collections and Modules
+	- [[ELA24-01/Day7]] `lineinfile` module
+	- [[ELA24-01/Day8]] `blockinfile` module
+	- [[ELA24-01/Day9]] Variables
+	- [[ELA24-01/Day10]] Registered Variable and Ansible Vault
+	- [[ELA24-01/Day11]] Managing Facts
+	-
