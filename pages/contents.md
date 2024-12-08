@@ -10,4 +10,5 @@
 	- [[ELA24-01/Day9]] Variables
 	- [[ELA24-01/Day10]] Registered Variable and Ansible Vault
 	- [[ELA24-01/Day11]] Managing Facts
+	- [[ELA24-01/Day12]] Custom Facts and Magic Variables
 	-
