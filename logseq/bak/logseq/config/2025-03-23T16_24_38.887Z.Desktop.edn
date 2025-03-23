@@ -133,7 +133,8 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
-
+ ;; :default-home {:page "ELA_Notes-README", :sidebar ["Contents"]}
+ 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
  ;; :pages-directory "pages"
@@ -299,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Notes" "ELA_Notes-README" "ELA24-01"]
+ :favorites ["ELA_Notes-README" "ELA24-01" "Notes"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -418,4 +419,7 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :publishing/all-pages-public? true
+ :feature/enable-journals? false
+ :default-home {:page "Contents"}}

@@ -420,6 +420,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :publishing/all-pages-public? true
- :feature/enable-journals? false
- :default-home {:page "Contents"}}
+ :publishing/all-pages-public? true}
+:default-home {:page "Contents"}}

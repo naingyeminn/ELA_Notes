@@ -1,5 +1,8 @@
-# Enterprise Linux Automation Class
+alias:: ELA
+
+- # Contents
 - ### [[ELA24-01]]
+  sessions:: 34
 	- [[ELA24-01_Day-1]] Introduction
 	- [[ELA24-01_Day-2]] Ansible Installation and Environment Preparation
 	- [[ELA24-01_Day-3]] Managing Ansible Inventory

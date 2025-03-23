@@ -421,5 +421,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :feature/enable-journals? false
+ :feature/enable-journals? true
  :default-home {:page "Contents"}}
