@@ -1,5 +1,8 @@
-# Enterprise Linux Automation Class
-- ### [[ELA24-01]]
+# 🐧Enterprise Linux Automation Class🐧
+- ### 📑 [[ELA24-01]]
+  start-date:: 2024-10-26
+  end-date:: 2025-03-23
+  language:: Burmese
 	- [[ELA24-01_Day-1]] Introduction
 	- [[ELA24-01_Day-2]] Ansible Installation and Environment Preparation
 	- [[ELA24-01_Day-3]] Managing Ansible Inventory
